@@ -1,3 +1,6 @@
 [submodule "themes/toadnfriendsTheme"]
 	path = themes/toadnfriendsTheme
 	url = https://github.com/hyperboly/toadnfriendsTheme
+[submodule "themes/lugo"]
+	path = themes/lugo
+	url = https://github.com/LukeSmithxyz/lugo.git
